@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\2022-12-1.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\2022-12-1.csproj": {}
   },
   "projects": {
-    "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\2022-12-1.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\2022-12-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\2022-12-1.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\2022-12-1.csproj",
         "projectName": "2022-12-1",
-        "projectPath": "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\2022-12-1.csproj",
-        "packagesPath": "C:\\Users\\argo\\.nuget\\packages\\",
-        "outputPath": "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\2022-12-1.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\argo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,16 +45,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.29, 3.1.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

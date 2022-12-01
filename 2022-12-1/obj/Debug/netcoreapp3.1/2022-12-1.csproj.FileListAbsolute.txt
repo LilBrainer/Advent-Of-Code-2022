@@ -12,3 +12,17 @@ D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-1\obj\Debug\ne
 D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.dll
 D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.pdb
 D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.exe
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.deps.json
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.dll
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\bin\Debug\netcoreapp3.1\2022-12-1.pdb
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.dll
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.pdb
+C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\2022-12-1\obj\Debug\netcoreapp3.1\2022-12-1.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BiqPSNlhNtMc5b/WecZ5iFlWIp2yFTWXGNvBjcD8t41lrYfTM1K4j9yrRwAqDfAboAphr7bPGrH5LOWQlbcaeA==",
+  "dgSpecHash": "8Saw9e4pqz3LFaUhHWTa/Kw6NKT89vX43t/V/OJUnj55ST4rxEjDJb4qqUagtX32hJTmHBCTUrtr0VTBvmmOxA==",
   "success": true,
-  "projectFilePath": "D:\\GS1\\Jose Antonio Puy\\M05 Programació\\AdventOfCode2022\\2022-12-1\\2022-12-1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Repositorios GITLAB\\Advent Of\\2022-12-1\\2022-12-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
   "logs": []
 }
