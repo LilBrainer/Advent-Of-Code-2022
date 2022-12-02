@@ -2,11 +2,11 @@
 
 namespace _2022_12_1
 {
-    class Program
+    class dia1
     {
         static void Main(string[] args)
         {
-            Program pr = new Program();
+            dia1 pr = new dia1();
             int resposta;
 
             do
@@ -37,7 +37,7 @@ namespace _2022_12_1
             int maxelf = 0;
             int elf = 0;
 
-            foreach (string line in System.IO.File.ReadLines(@"C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\input\input.txt"))
+            foreach (string line in System.IO.File.ReadLines(@"..\..\..\..\input\input.txt"))
             {
                 if (line == "")
                 {
@@ -66,7 +66,7 @@ namespace _2022_12_1
             int maxelf3 = 0;
             int elf = 0;
 
-            foreach (string line in System.IO.File.ReadLines(@"C:\Users\Usuario\Desktop\Repositorios GITLAB\Advent Of\input\input.txt"))
+            foreach (string line in System.IO.File.ReadLines(@"..\..\..\..\input\input.txt"))
             {
                 if (line == "")
                 {

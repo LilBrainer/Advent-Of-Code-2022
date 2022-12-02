@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-1\\2022-12-1.csproj",
-      "projectName": "2022-12-1",
-      "projectPath": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-1\\2022-12-1.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-2\\2022-12-2.csproj",
+      "projectName": "2022-12-2",
+      "projectPath": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-2\\2022-12-2.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-1\\obj\\",
+      "outputPath": "C:\\Users\\josep\\Desktop\\REPOSITORIOS GIT\\Advent of Code 2022\\2022-12-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
