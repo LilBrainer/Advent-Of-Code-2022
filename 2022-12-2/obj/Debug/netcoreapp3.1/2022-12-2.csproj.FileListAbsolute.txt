@@ -12,3 +12,17 @@ C:\Users\josep\Desktop\REPOSITORIOS GIT\Advent of Code 2022\2022-12-2\obj\Debug\
 C:\Users\josep\Desktop\REPOSITORIOS GIT\Advent of Code 2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.dll
 C:\Users\josep\Desktop\REPOSITORIOS GIT\Advent of Code 2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.pdb
 C:\Users\josep\Desktop\REPOSITORIOS GIT\Advent of Code 2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.genruntimeconfig.cache
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.exe
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.deps.json
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.runtimeconfig.json
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.runtimeconfig.dev.json
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.dll
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\bin\Debug\netcoreapp3.1\2022-12-2.pdb
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.csproj.AssemblyReference.cache
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.AssemblyInfoInputs.cache
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.AssemblyInfo.cs
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.csproj.CoreCompileInputs.cache
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.dll
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.pdb
+D:\GS1\Jose Antonio Puy\M05 Programació\AdventOfCode2022\2022-12-2\obj\Debug\netcoreapp3.1\2022-12-2.genruntimeconfig.cache
