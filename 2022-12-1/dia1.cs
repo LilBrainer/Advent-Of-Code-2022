@@ -4,32 +4,33 @@ namespace _2022_12_1
 {
     class dia1
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            dia1 pr = new dia1();
             int resposta;
 
             do
             {
                 Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("     DIA 1");
+                Console.ResetColor();
                 Console.WriteLine("Quina part vols?\n\n 0- Sortir \n 1- Part 1 \n 2- Part 2");
                 resposta = Convert.ToInt32(Console.ReadLine());
 
                 if (resposta == 1)
                 {
-                    parte1();
+                    Part1();
                 }
                 if (resposta == 2)
                 {
-                    parte2();
+                    Part2();
                 }
 
             } while (resposta != 0);
 
-            Console.ReadLine();
         }
 
-        static void parte1()
+        static void Part1()
         {
             Console.Clear();
 
@@ -57,7 +58,7 @@ namespace _2022_12_1
             Console.ReadLine();
         }
 
-        static void parte2()
+        static void Part2()
         {
             Console.Clear();
 
