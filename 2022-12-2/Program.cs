@@ -6,13 +6,20 @@ namespace _2022_12_2
     {
         static void Main()
         {
+            
+        }
+
+        public void Part1()
+        {
+            Console.Clear();
+
             string input_elf = "";
             string input_mine = "";
             int pts_mine = 0;
             string[] strings;
             int contador = 0;
 
-            strings = System.IO.File.ReadAllText(@"..\..\..\..\input\input2-test.txt").Split(' ', '\n', '\r');
+            strings = System.IO.File.ReadAllText(@"..\..\..\..\input\input2.txt").Split(' ', '\n', '\r');
 
             for (int i = 0; i < strings.Length; i++)
             {
@@ -27,7 +34,11 @@ namespace _2022_12_2
                     if (strings[i] == "Y") pts_mine += 2;
                     if (strings[i] == "Z") pts_mine += 3;
                 }
-                
+                if (strings[i] != "")
+                {
+                    contador++;
+                }
+
                 if (strings[i] != "" && contador == 2)
                 {
                     if (input_elf == "A")
@@ -64,7 +75,7 @@ namespace _2022_12_2
                         }
                     }
                 }
-                contador++;
+
                 if (contador == 2)
                 {
                     contador = 0;
@@ -72,19 +83,7 @@ namespace _2022_12_2
             }
 
             Console.WriteLine(pts_mine);
-
-            //Console.WriteLine(strings[0]);
-            //Console.WriteLine(input_mine);
-            //Console.WriteLine(input_elf);
-
             Console.ReadLine();
-        }
-
-        public void Part1()
-        {
-            Console.Clear();
-
-
         }
 
         public void Part2()
